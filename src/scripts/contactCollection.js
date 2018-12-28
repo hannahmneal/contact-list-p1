@@ -9,3 +9,4 @@ console.log("contactCollection.js");
 // Create a function to pull information from contactform and store in an array
 // Create a function to retrieve existing data from storage
 // Export data from this section to the contactList
+// -----------------------------------------------------------------------------

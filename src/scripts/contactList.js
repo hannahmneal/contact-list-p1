@@ -6,3 +6,4 @@ console.log("contactList");
 //                              TO DO:
 // Displays all data from contact and contactCollection
 // Displays beneath the contactForm in the browser
+// -----------------------------------------------------------------------------

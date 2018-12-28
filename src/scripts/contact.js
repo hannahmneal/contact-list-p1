@@ -7,3 +7,4 @@ console.log("contact.js");
 //                                  TO DO:
 // Display data from contactCollection
 // Export data to contactList
+// -----------------------------------------------------------------------------
